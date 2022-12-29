@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/78557330/170858525-6e89b393-7e02-4615-9a88-7d9b2c0fa94e.png">
 
-# Attendance Portal
-This a an attendance tracker system which uses facial recognition technology for the same purpose.
+# Live-Attendance-Tracker
+This a an live attendance tracker system which uses facial recognition technology for the same purpose.
 
 ## Tech Stack:
 - **Flask** - A python framework for web development.
@@ -44,7 +44,7 @@ This a an attendance tracker system which uses facial recognition technology for
 ## Local Setup
 1. Clone the github repository.
 ```
-https://github.com/shuklaprakhar415/ms-engage.git 
+https://github.com/RashiShukla01/live-attendence-tracker.git 
 ```
 2. Open the folder in Visual Studio Code.
 
